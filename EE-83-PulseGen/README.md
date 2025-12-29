@@ -1,12 +1,12 @@
 
 Name:
-- EE-83-function
+- EE-83-PulseGen
 
 Description:
-- Function generator
+- Pulse generator
 
 Source refrence:
-- Everyday Electronics 1983-04 p.14 (205)
+- Everyday Electronics 1983-07 p.456 (58)
 
 This is functional similar but not exact copy.
 All dimension were estimated by eye.
