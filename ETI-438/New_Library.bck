@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2903
+D Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/SOP-8/TSSOP-8/VSSOP-8
+K cmp open collector
+F http://www.ti.com/lit/ds/symlink/lm393.pdf
+$ENDCMP
+#
+$CMP LM3900
+D Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/SOP-8/TSSOP-8/VSSOP-8
+K cmp 
+F http://www.ti.com/lit/ds/symlink/lm393.pdf
+$ENDCMP
+#
+$CMP LM393
+D Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/TO-99-8
+K cmp open collector
+F http://www.ti.com/lit/ds/symlink/lm393.pdf
+$ENDCMP
+#
+$CMP LMV339
+D Quad General-Purpose Low-Voltage Comparator, SOIC-14/TSSOP-14
+K cmp open collector
+F https://www.st.com/resource/en/datasheet/lmv331.pdf
+$ENDCMP
+#
+#End Doc Library

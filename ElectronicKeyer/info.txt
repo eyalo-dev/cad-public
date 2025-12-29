@@ -1,0 +1,3 @@
+ElectronicKeyer
+A simple electronic keyer for sending morse code.
+Based on Popular Electronics-1976-08 p. 44.
