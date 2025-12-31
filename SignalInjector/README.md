@@ -3,12 +3,12 @@ Name:
 - SignalInjector
 
 Description:
-- Battery (4*1.4V) operated analog signal injector.
+- Battery (4*1.5V) operated analog signal injector.
 
 Source refrence:
 - Elektor May 1984 (Elektor_1984-05.pdf) page 54.
 - Elektor 301 circuits vol1, p. 71 (#58).
-- No PCB number.
+- No (Elektor) PCB number.
 
 This is functional similar but not exact copy.
 All dimension were estimated by eye.

@@ -1,7 +1,10 @@
 This is my public CAD/PCB file.
 Mostly from old magazines and some of my own.
+These are not an exact copy but functionaly similar to the original magazine artical.
+I also try to make the PCBs smaller than 100mm by 100mm, when posible, as this seem to be 
+the entry level pricing in most PCB fabrication places.
 
-Note that files created using Kicad 5.0.
+Note that all files created using Kicad 5.0.
 
 Free to use on your own risk.
 
@@ -23,7 +26,7 @@ based on Popular Electronics-1976-08 (page 44)
 elk_pwm_amp
 PWM Audio amplifier
 Elektor may 1980, p. 25 (23)
-No PCB number.
+No (Elektor) PCB number.
 
 ETI-438
 Audio Level (VU) Meter
@@ -35,7 +38,7 @@ RC Servo Tester
 Maplin-Electronics-1987-09-6.pdf, p. 24 (22)
 
 SignalInjector
-Battery (4*1.4V) operated analog signal injector.
+Battery (4*1.5V) operated analog signal injector.
 Elektor May 1984 (Elektor_1984-05.pdf) page 54.
 Elektor 301 circuits vol1, p. 71 (#58).
 
@@ -46,8 +49,6 @@ TrainControl
 Analog model train power control
 Maplin-Electronics-1985-03-05.pdf p.56 (54)
 
-
 utiliboard
-ETI UTILIBOARD - ETI magazine utility PCB
+ETI UTILIBOARD - ETI magazine utility PCB (breadboard)
 ETI-Top-Projects-Vol-3.pdf pp. 55 (55)
-PCB-Done
