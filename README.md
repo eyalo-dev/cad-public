@@ -1,12 +1,16 @@
 This is my public CAD/PCB file.
 Mostly from old magazines and some of my own.
 These are not an exact copy but functionaly similar to the original magazine artical.
-I also try to make the PCBs smaller than 100mm by 100mm, when posible, as this seem to be 
+I also try to make the PCBs smaller than 100mm by 100mm, when possible, as this seem to be 
 the entry level pricing in most PCB fabrication places.
 
 Note that all files created using Kicad 5.0.
 
 Free to use on your own risk.
+
+Decoration
+Decoration/fun, ball shap (christmas ornament) blinking LEDs
+Elektor 2003-12 p. 104
 
 EE-83-function
 Function generator
