@@ -9,7 +9,7 @@ Note that all files created using Kicad 5.0.
 Free to use on your own risk.
 
 Decoration
-Decoration/fun, ball shap (christmas ornament) blinking LEDs
+Decoration/fun, ball shap (christmas ornament), blinking LEDs
 Elektor 2003-12 p. 104
 
 EE-83-function
@@ -37,6 +37,9 @@ Audio Level (VU) Meter
 ETI-1975-12.pdf p.51 (49) (without PCB) 
 ETI-1976-Top Projects 4.pdf, p. 17 (26) (reprint with PCB image - small)
 
+Proto_no2
+Elek (Elektor) style proto board.
+
 ServoTester
 RC Servo Tester
 Maplin-Electronics-1987-09-6.pdf, p. 24 (22)
@@ -45,6 +48,10 @@ SignalInjector
 Battery (4*1.5V) operated analog signal injector.
 Elektor May 1984 (Elektor_1984-05.pdf) page 54.
 Elektor 301 circuits vol1, p. 71 (#58).
+
+SoundGen
+Sound Generator. Different siren like sounds with audio amp.
+Elektor USA 1990-10.pdf p. 39 (39)
 
 tennis
 digikit reactive tennis game replica PCB.

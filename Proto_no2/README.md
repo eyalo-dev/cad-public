@@ -1,18 +1,20 @@
 
 Name:
-- Decoration
+- Proto_no2
 
 Description:
-- Decoration/fun, ball shap (christmas ornament), blinking LEDs.
+- Elek (Elector) magazine style utility (breadboard) PCB
 
 Source refrence:
-- Elektor Electronics 2003-12 p.104 (90)
-- Project no. 030157-1
+- 
 
 This is functional similar but not exact copy.
-All dimensions were estimated by eye.
+All dimension were estimated by eye.
 Tried to use similar component placment as much as posible, but using only Kicad
 standard PCB component footprint library, so dimentions may very.
+
+Make the PCB without slikscreen layer in 1 or 2 copper layers and 
+solder mask.
 
 PCB
 - Done edit but
