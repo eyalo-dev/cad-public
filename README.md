@@ -49,6 +49,10 @@ Battery (4*1.5V) operated analog signal injector.
 Elektor May 1984 (Elektor_1984-05.pdf) page 54.
 Elektor 301 circuits vol1, p. 71 (#58).
 
+SmoothOperator
+Small board to control hoby type servo.
+Elektor 2004-06.pdf, p. 38 (38)
+
 SoundGen
 Sound Generator. Different siren like sounds with audio amp.
 Elektor USA 1990-10.pdf p. 39 (39)
