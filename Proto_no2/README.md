@@ -5,7 +5,7 @@ Name:
 Description:
 - Elek (Elector) magazine style utility (breadboard) PCB
 
-Source refrence:
+Source reference:
 - 
 
 This is functional similar but not exact copy.

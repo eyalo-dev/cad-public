@@ -5,7 +5,7 @@ Name:
 Description:
 - Pulse generator
 
-Source refrence:
+Source reference:
 - Everyday Electronics 1983-07 p.456 (58)
 
 This is functional similar but not exact copy.

@@ -67,3 +67,8 @@ Maplin-Electronics-1985-03-05.pdf p.56 (54)
 utiliboard
 ETI UTILIBOARD - ETI magazine utility PCB (breadboard)
 ETI-Top-Projects-Vol-3.pdf pp. 55 (55)
+
+VaiablePowerSupplay
+- Variable power supplay 0-50V / 0 - 2A
+- Elektor 1980-07-08.pdf, p. 86 (76)
+- No PCB ref. no.

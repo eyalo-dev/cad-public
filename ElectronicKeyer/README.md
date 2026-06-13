@@ -5,7 +5,7 @@ Name:
 Description:
 - Morse code electronic keyer
 
-Source refrence:
+Source reference:
 - Based on Popular Electronics-1976-08 (page 44)
 
 This is functional similar but not exact copy.

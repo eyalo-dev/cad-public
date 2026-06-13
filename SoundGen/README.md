@@ -5,7 +5,7 @@ Name:
 Description:
 - Sound Generator. Upto 250 different siren like sounds with audio amp.
 
-Source refrence:
+Source reference:
 - Elektor USA 1990-10.pdf p. 39 (39)
 
 This is functional similar but not exact copy.

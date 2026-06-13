@@ -5,7 +5,7 @@ Name:
 Description:
 - Function generator
 
-Source refrence:
+Source reference:
 - Everyday Electronics 1983-04 p.14 (205)
 
 This is functional similar but not exact copy.

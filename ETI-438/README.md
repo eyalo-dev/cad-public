@@ -5,7 +5,7 @@ Name:
 Description:
 - Audio Level (VU) Meter.
 
-Source refrence:
+Source reference:
 - ETI-1975-12.pdf p.51 (49) (without PCB) 
 - ETI-1976-Top Projects 4.pdf, p. 17 (26) (reprint with PCB image - small)
 

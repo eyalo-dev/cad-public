@@ -5,7 +5,7 @@ Name:
 Description:
 - Transistor and Diode Tester
 
-Source refrence:
+Source reference:
 - Everyday Electronics 1983-06 p.370 (44)
 
 This is functional similar but not exact copy.

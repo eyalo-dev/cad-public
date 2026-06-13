@@ -5,7 +5,7 @@ Name:
 Description:
 - Hobby type servo tester.
 
-Source refrence:
+Source reference:
 - Maplin-Electronics-1987-09-6.pdf, p. 24 (22)
 
 This is functional similar but not exact copy.

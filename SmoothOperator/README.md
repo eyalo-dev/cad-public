@@ -6,7 +6,7 @@ Description:
 - Small board to control hoby type servo, as relacement for switch in
   model tarine sets.
 
-Source refrence:
+Source reference:
 - Elektor 2004-06.pdf, p. 38 (38)
 - ref. no. 030209-1
 

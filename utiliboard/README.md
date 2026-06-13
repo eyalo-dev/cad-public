@@ -5,7 +5,7 @@ Name:
 Description:
 - ETI UTILIBOARD - ETI magazine utility (breadboard) PCB
 
-Source refrence:
+Source reference:
 - ETI-Top-Projects-Vol-3.pdf pp. 55 (55)
 
 This is functional similar but not exact copy.

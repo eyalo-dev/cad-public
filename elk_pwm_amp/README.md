@@ -5,7 +5,7 @@ Name:
 Description:
 - Very simple PWM (class D) audio amplifier
 
-Source refrence:
+Source reference:
 - Elektor may 1980, p. 25 (23) - No PCB number
 
 This is functional similar but not exact copy.

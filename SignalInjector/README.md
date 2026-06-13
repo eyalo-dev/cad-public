@@ -5,7 +5,7 @@ Name:
 Description:
 - Battery (4*1.5V) operated analog signal injector.
 
-Source refrence:
+Source reference:
 - Elektor May 1984 (Elektor_1984-05.pdf) page 54.
 - Elektor 301 circuits vol1, p. 71 (#58).
 - No (Elektor) PCB number.
